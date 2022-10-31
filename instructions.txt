@@ -1,0 +1,18 @@
+box shadow
+
+X Y B S C
+
+X axis
+
+Y axis
+
+B Blur
+
+S Spread
+
+C Color
+
+
+text shadow
+
+X Y B C
