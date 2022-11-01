@@ -16,3 +16,14 @@ C Color
 text shadow
 
 X Y B C
+
+
+CDN = Content Delivery Network
+
+https://cdnjs.com/libraries/font-awesome
+
+
+Query String
+
+?name=value&name=value&name=value
+?email=anildalar8888%40gmail.com&password=alksjfdljalsjd+f&submit=LOG+IN
